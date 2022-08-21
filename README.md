@@ -7,5 +7,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/progmatx)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/progerboy)
 
-## 🌍 Stats: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt5346&layout=compact&theme=radical)
